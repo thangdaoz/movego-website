@@ -1,0 +1,16 @@
+# MOVEGO
+
+> MOVEGO (full name: MOVEGO: Immersive Workout) is a cardio game for iPhone. You prop up the phone, step back, and your body is the controller: jump, duck, step left, step right, punch and strike a pose to dodge obstacles and collect coins. The front camera tracks your moves on the phone. Camera images are never uploaded or saved. Made by Dao Duc Thang.
+
+Key facts: iPhone only (iOS 16.4 or later), rated 12+, free to start, optional MOVEGO Plus subscription, English. App Store Connect app id 6777393163. Website: https://movegoimmersiveworkout.app/
+
+## Pages
+
+- [Home](https://movegoimmersiveworkout.app/): what MOVEGO is, how it works, the six moves, play on a TV, progress and friends, privacy, free vs Plus, requirements, FAQ.
+- [Support](https://movegoimmersiveworkout.app/support.html): camera troubleshooting, subscriptions, deleting your data, contact email.
+- [Privacy Policy](https://movegoimmersiveworkout.app/privacy.html): what the app collects and why.
+- [Terms of Use](https://movegoimmersiveworkout.app/terms.html): safety, accounts, coins and energy, subscriptions.
+
+## Optional
+
+- [Full facts for assistants](https://movegoimmersiveworkout.app/llms-full.txt): the same facts in one plain-text file, with the things MOVEGO does not claim.

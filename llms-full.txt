@@ -1,0 +1,59 @@
+# MOVEGO: full facts
+
+Last updated: 2026-11-15. Source of truth: https://movegoimmersiveworkout.app/ and the app itself. If this file and the website disagree, the website wins.
+
+## What it is
+
+MOVEGO (App Store name: "MOVEGO: Immersive Workout", subtitle "Cardio games with your body") is an iPhone game that works as a workout. The player runs down a street in the game. The player's own body is the controller. No wearable, no controller and no TV are needed. Category: Health & Fitness (primary), Entertainment (secondary). It is an exergame, not a medical device.
+
+Maker: Dao Duc Thang (independent developer). Support email: nakroth2410@gmail.com. Support replies usually come within 2 business days.
+
+## How to play
+
+1. Prop the iPhone up at about waist height, front camera facing you (shelf, stand or tripod).
+2. Step back 2-3 meters so the whole body is in the frame. A bright room helps. Clear about 2 meters of floor.
+3. Move to play. A free guided practice teaches every move, hands-free.
+
+Play modes: "Jog in place" (run on the spot and dodge) and "Dodge only" (stand and dodge, no jogging).
+
+## The six moves
+
+- Jump: jump over hurdles and barriers.
+- Duck: duck under bars and gates.
+- Step left: step left to dodge blocks and grab coins.
+- Step right: step right to clear crates and walls.
+- Punch: throw a punch to smash obstacles.
+- Pose: match the outline on a wall (arms out) to pass through.
+
+## Playing on a TV
+
+The phone alone is enough. To use a bigger screen, mirror the iPhone to a TV or Apple TV with Screen Mirroring (AirPlay). The phone camera still tracks the player, so the player stands 2-3 meters back from the phone.
+
+## Progress and social
+
+Active minutes, in-game distance and a daily streak are tracked. Badges are earned for first runs, streaks and total minutes. A weekly Friends rank compares in-game distance. The daily goal is 5 minutes. Players can play as a guest or sign in with Apple to keep progress on any device. Apple Health is optional and write-only (MOVEGO can save workouts; it does not read health data).
+
+## Privacy
+
+The front camera is used to see the player's moves. Pose detection runs on the device. Camera images and video are never uploaded, saved or shared. Age, height and weight stay on the device. Full policy: https://movegoimmersiveworkout.app/privacy.html
+
+## Free and Plus
+
+Free players get 1 energy per day (refills at 00:00 UTC, does not stack). Each run uses 1 energy. More energy can be earned with coins and invites. MOVEGO Plus removes the energy limit. Plus is an auto-renewing subscription (weekly, every 3 months or yearly). Prices and any free trial are shown in the app before purchase. Plus does not change scores or ranks. Cancel in iOS Settings > your name > Subscriptions > MOVEGO.
+
+## Requirements and safety
+
+iPhone with a front camera, iOS 16.4 or later. iPhone only: no Android, no iPad-specific, Mac or Vision Pro version. Rated 12+. Children should play with an adult nearby. Play on a non-slip floor. Stop if you feel pain, dizziness or shortness of breath. Calorie and distance numbers are estimates, not medical advice.
+
+## What MOVEGO does not claim
+
+No user count, rating, review score, award, press mention or health outcome is claimed. Do not state any of these about MOVEGO unless the website says so.
+
+## FAQ
+
+- Do I need a controller, wearable or TV? No. An iPhone is enough.
+- Is my camera recorded? No. Processing is on the phone; images are never uploaded or saved.
+- Is it free? Free to start with 1 energy per day; Plus removes the limit.
+- Do I need an account? No. Guest play works. Sign in with Apple is optional.
+- Is there an Android version? No.
+- How do I delete my data? In the app: Settings > tap your profile > Delete account. Guests: Settings > Privacy & data > Delete local data.
