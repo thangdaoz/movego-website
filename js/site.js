@@ -147,10 +147,18 @@
     }
   }
 
-  // Hero video: phones only, and not for reduced motion. Desktop keeps the still image.
+  // Hero video: real gameplay behind the headline. Phones get the portrait cut. The still image stays underneath
+  // and the video fades in once it plays, so a slow or failed video never leaves a blank hero.
   var video = doc.querySelector(".hero-bg video");
-  if (video && !reduce && window.matchMedia("(max-width: 700px)").matches) {
-    video.src = video.getAttribute("data-src");
+  if (video && !reduce) {
+    var phone = window.matchMedia("(max-width: 700px)").matches;
+    video.addEventListener("playing", function () { video.classList.add("on"); }, { once: true });
+    // The clip is not a seamless loop: fade to the still image for the last 0.7 s, then fade back in.
+    video.addEventListener("timeupdate", function () {
+      var d = video.duration || 0;
+      video.classList.toggle("fading", d > 0 && video.currentTime > d - 0.7);
+    });
+    video.src = video.getAttribute(phone ? "data-src-tall" : "data-src-wide");
     var p = video.play();
     if (p && p.catch) p.catch(function () {});
     if ("IntersectionObserver" in window) {
